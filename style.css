@@ -1,6 +1,6 @@
 .cv-site {
     margin: 0 auto;
-    min-width: 960px;
+    max-width: 1024px;
     font-family: "Montserrat", "Helvetica", "Arial", sans-serif;
     font-size: 16px;
     text-align: justify;
