@@ -1,1 +1,1 @@
-https://mougra.github.io/rsschool-cv/
+https://mougra.github.io/rsschool-cv/cv
